@@ -1,1 +1,1 @@
-Saludo desde A y B
+Saludo desde B
